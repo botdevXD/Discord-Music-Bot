@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@distube/soundcloud": "^1.2.2",
+    "axios": "^1.1.2",
+    "discord-music-player": "^9.1.1",
+    "discord.js": "^14.6.0",
+    "isomorphic-unfetch": "^3.1.0"
+  }
+}
